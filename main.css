@@ -294,6 +294,7 @@ img {
   .planos-lista {
     display: grid;
     grid-template-columns: 1fr;
+    padding: 20px;
   }
 }
 
