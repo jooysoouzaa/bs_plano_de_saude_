@@ -35,7 +35,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px !important;
+  padding: 40px;
 }
 
 .header-menu {
@@ -74,6 +74,9 @@ img {
     display: block;
     padding: 20px;
   }
+  .button-intro {
+    padding: 20px !important;
+}
 
   /*menu hamburguer*/
 
@@ -212,7 +215,6 @@ img {
   width: 100%;
   background: url(../imagem/background-03.jpg) no-repeat center;
   background-size: cover;
-  padding-bottom: 50px;
 }
 
 .introducao-container {
