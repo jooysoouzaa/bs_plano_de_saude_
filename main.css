@@ -184,7 +184,7 @@ img {
 @media (max-width: 760px) {
   .quote-externo p {
     font-size: 14px;
-    padding: 20px;
+    padding: 10px 20px;
   }
 
   .container-duvida p {
