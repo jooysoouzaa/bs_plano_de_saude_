@@ -365,7 +365,7 @@ img {
 
 @media (max-width: 800px) {
   .qualidade-container {
-    padding: 20px;
+    padding: 40px 20px;
   }
 }
 
